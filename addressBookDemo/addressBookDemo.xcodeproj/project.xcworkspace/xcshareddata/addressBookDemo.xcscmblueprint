@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "70c494e5-4356-5542-9872-eb58dc40f154++5225",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "70c494e5-4356-5542-9872-eb58dc40f154++5225" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "70c494e5-4356-5542-9872-eb58dc40f154++5225" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DE2FF75D-7BDE-4D31-8EB8-C2131788EF7E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "70c494e5-4356-5542-9872-eb58dc40f154++5225" : "%E7%88%B1%E8%AF%AD%E6%96%87\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "addressBookDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "addressBookDemo\/addressBookDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.246\/svn\/iYuWen",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70c494e5-4356-5542-9872-eb58dc40f154++5225"
+    }
+  ]
+}
